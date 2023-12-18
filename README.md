@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joseluisJ4L
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on CFDEM simulations
+- 🌱 I’m currently learning web-development
+- 💞️ I’m looking to design web pages
 - 📫 jose.llicas@gmail.com
 
 <!---
